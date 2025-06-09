@@ -1,0 +1,58 @@
+﻿experiment,species,site_name,site_number,plant_number,plant_id,aridity_seed_provenance,water_treatment,height_pre,crown_length_pre,crown_width_pre,number_stems_pre,diameter_stem_pre,fresh_biomass_pre,drybiomass_pre,success_1,height_post,crown_length_post,crown_width_post,number_resprouts_post,diameter_stem_post,drybiomass_post,success_2
+garden,ACY,Agost,2,10,ACY_2_10,High,Drought,64,60,32,5,11.77,140,47.302,1,60,58,35,5,6.6,33.027,0
+garden,ACY,Agost,2,11,ACY_2_11,High,Drought,62,37,35,5,14.42,100,45.433,1,45,26,17,10,3.25,15.475,1
+garden,ACY,Agost,2,12,ACY_2_12,High,Drought,71,58,44,5,9.94,100,37.755,1,35,18,16,7,4.86,11.912,1
+garden,ACY,Agost,2,13,ACY_2_13,High,Drought,65,53,28,1,9.65,100,37.775,1,50,23,20,6,4.73,14.57,0
+garden,ACY,Agost,2,14,ACY_2_14,High,Drought,66,56,33,7,10.66,120,42.701,1,50,25,21,13,3.47,19.23,1
+garden,ACY,Agost,2,15,ACY_2_15,High,Drought,44,36,24,8,9.47,70,31.06,1,44,15,11,5,4.69,11.708,0
+garden,ACY,Agost,2,16,ACY_2_16,High,Drought,58,28,26,12,9.23,40,31.54,1,40,20,17,12,3.6,13.192,1
+garden,ACY,Agost,2,17,ACY_2_17,High,Drought,60,51,40,6,10.59,90,34.544,1,45,22,19,8,4.6,17.006,0
+garden,ACY,Agost,2,18,ACY_2_18,High,Drought,53,60,30,7,10.48,80,36.744,1,44,22,18,3,5.19,12.849,1
+garden,ACY,Agost,2,19,ACY_2_19,High,Drought,62,40,37,1,5.38,50,18.488,0,,,,,,,
+garden,ACY,Agost,2,1,ACY_2_1,High,Watered,62,63,45,6,13.06,120,42.013,0,,,,,,,
+garden,ACY,Agost,2,2,ACY_2_2,High,Watered,62,48,42,7,11.38,120,48.354,1,62,22,15,10,5.75,38.445,1
+garden,ACY,Agost,2,3,ACY_2_3,High,Watered,71,61,41,9,14.08,130,51.077,1,62,37,26,11,7,37.202,1
+garden,ACY,Agost,2,4,ACY_2_4,High,Watered,69,66,61,10,14.44,160,61.872,1,60,25,21,15,7.38,47.747,1
+garden,ACY,Agost,2,5,ACY_2_5,High,Watered,64,54,26,5,10.2,100,33.333,1,56,30,20,10,6.5,30.373,1
+garden,ACY,Agost,2,6,ACY_2_6,High,Watered,75,68,56,9,10.36,120,47.81,1,66,30,22,18,6.46,36.385,1
+garden,ACY,Agost,2,8,ACY_2_8,High,Watered,70,56,43,9,11.5,120,46.633,1,68,31,28,15,5.8,36.595,1
+garden,ACY,Agost,2,9,ACY_2_9,High,Watered,71,43,40,5,7.2,80,28.344,0,,,,,,,
+garden,ACY,Castell de la Mola,1,10,ACY_1_10,High,Drought,59,35,28,6,10.32,100,38.347,1,36,21,18,14,2.79,11.014,1
+garden,ACY,Castell de la Mola,1,11,ACY_1_11,High,Drought,55,47,38,4,7.46,60,19.852,1,43,20,10,9,2.99,9.069,1
+garden,ACY,Castell de la Mola,1,12,ACY_1_12,High,Drought,60,47,33,3,9.8,100,32.025,1,33,18,16,10,3.95,15.921,1
+garden,ACY,Castell de la Mola,1,13,ACY_1_13,High,Drought,72,56,41,6,7.72,60,30.346,1,43,34,17,5,5.5,17.961,0
+garden,ACY,Castell de la Mola,1,14,ACY_1_14,High,Drought,64,25,22,3,6,20,11.531,0,,,,,,,
+garden,ACY,Castell de la Mola,1,1,ACY_1_1,High,Watered,59,47,32,4,12.28,100,43.75,1,46,25,19,14,3.9,28.164,1
+garden,ACY,Castell de la Mola,1,2,ACY_1_2,High,Watered,65,45,38,9,12.47,160,62.619,1,50,26,18,14,4.33,37.546,1
+garden,ACY,Castell de la Mola,1,3,ACY_1_3,High,Watered,75,39,37,7,11.4,120,49.95,1,58,36,30,13,6.21,30.621,1
+garden,ACY,Castell de la Mola,1,4,ACY_1_4,High,Watered,68,46,35,8,9.23,140,50.586,1,53,30,28,11,5.16,33.889,1
+garden,ACY,Castell de la Mola,1,5,ACY_1_5,High,Watered,70,55,42,5,10.37,110,46.923,1,72,40,36,9,7.3,45.443,0
+garden,ACY,Castell de la Mola,1,7,ACY_1_7,High,Watered,70,50,31,6,8.56,100,47.666,1,66,28,20,10,3.8,43.751,1
+garden,ACY,Ermita San Roc,4,10,ACY_4_10,Low,Drought,73,28,26,8,13.36,80,39.493,1,34,24,19,10,2.76,13.984,0
+garden,ACY,Ermita San Roc,4,11,ACY_4_11,Low,Drought,57,35,31,7,12.16,80,36.954,1,20,14,12,13,2.86,7.886,0
+garden,ACY,Ermita San Roc,4,13,ACY_4_13,Low,Drought,77,40,30,9,12.34,80,32.134,1,33,20,14,9,3.1,15.453,1
+garden,ACY,Ermita San Roc,4,14,ACY_4_14,Low,Drought,75,30,28,4,10.71,80,26.231,1,50,20,20,7,4.5,17.092,1
+garden,ACY,Ermita San Roc,4,15,ACY_4_15,Low,Drought,65,55,40,9,14.92,110,41.178,1,41,26,20,11,3.85,20.054,0
+garden,ACY,Ermita San Roc,4,16,ACY_4_16,Low,Drought,64,43,31,9,9.62,90,35.675,1,35,20,16,12,2.6,10.002,0
+garden,ACY,Ermita San Roc,4,17,ACY_4_17,Low,Drought,56,45,29,8,6.52,50,24.835,1,28,30,28,10,3.46,9.222,1
+garden,ACY,Ermita San Roc,4,18,ACY_4_18,Low,Drought,57,44,37,8,8.14,80,29.909,1,40,26,24,4,5.33,16.945,0
+garden,ACY,Ermita San Roc,4,19,ACY_4_19,Low,Drought,51,36,34,6,7.81,50,18.408,1,36,20,15,10,3.5,10.212,1
+garden,ACY,Ermita San Roc,4,20,ACY_4_20,Low,Drought,56,48,43,6,8.85,80,27.897,1,55,16,13,7,4.4,11.804,1
+garden,ACY,Ermita San Roc,4,1,ACY_4_1,Low,Watered,53,45,34,8,12.98,130,47.527,1,46,29,21,12,5,34.474,1
+garden,ACY,Ermita San Roc,4,2,ACY_4_2,Low,Watered,77,60,43,5,10,140,58.4,1,60,49,35,9,6.41,35.644,1
+garden,ACY,Ermita San Roc,4,3,ACY_4_3,Low,Watered,60,60,50,9,16.74,80,36.493,1,55,44,30,11,5.3,34.911,1
+garden,ACY,Ermita San Roc,4,4,ACY_4_4,Low,Watered,71,52,25,10,12.13,150,59.842,1,53,37,32,12,4.8,34.501,1
+garden,ACY,Ermita San Roc,4,5,ACY_4_5,Low,Watered,58,65,37,8,9.86,130,56.615,1,56,41,32,6,5.67,32.394,1
+garden,ACY,Ermita San Roc,4,6,ACY_4_6,Low,Watered,67,41,30,12,11.82,120,42.258,1,55,33,24,14,3.61,27.513,1
+garden,ACY,Ermita San Roc,4,7,ACY_4_7,Low,Watered,64,42,33,9,10.53,120,41.206,1,62,46,35,9,3.48,46.175,1
+garden,ACY,Ermita San Roc,4,8,ACY_4_8,Low,Watered,67,50,49,8,10.52,110,51.895,1,70,40,39,16,4.8,48.229,1
+garden,ACY,Ermita San Roc,4,9,ACY_4_9,Low,Watered,79,36,30,9,9.15,60,24.982,1,60,37,36,9,5.85,22.936,0
+garden,ACY,Ginestar,3,10,ACY_3_10,Low,Drought,62,39,35,11,10.85,100,36.609,0,,,,,,,
+garden,ACY,Ginestar,3,11,ACY_3_11,Low,Drought,56,42,30,14,11.44,80,35.229,1,38,20,16,5,5.67,12.167,0
+garden,ACY,Ginestar,3,12,ACY_3_12,Low,Drought,55,41,32,11,9.08,100,34.398,1,32,22,15,12,3.82,14.051,1
+garden,ACY,Ginestar,3,13,ACY_3_13,Low,Drought,45,35,28,9,11.15,60,36.452,0,,,,,,,
+garden,ACY,Ginestar,3,14,ACY_3_14,Low,Drought,56,37,40,7,10.32,80,27.023,0,,,,,,,
+garden,ACY,Ginestar,3,1,ACY_3_1,Low,Watered,60,57,37,11,17.67,170,56.069,1,31,21,16,8,4.66,11.811,0
+garden,ACY,Ginestar,3,2,ACY_3_2,Low,Watered,67,44,33,11,16,120,40.349,1,63,34,28,12,5.42,47.621,1
+garden,ACY,Ginestar,3,3,ACY_3_3,Low,Watered,66,42,40,9,12.39,160,59.29,1,54,33,29,14,4.74,44.654,1
+garden,ACY,Ginestar,3,4,ACY_3_4,Low,Watered,67,72,65,8,10.21,150,50.074,1,58,34,31,8,5.6,36.326,0
