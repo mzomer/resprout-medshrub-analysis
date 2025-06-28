@@ -2,7 +2,7 @@
 
 This repository contains all code, data, and outputs needed to reproduce the analyses in:
 
-*Maya A. Zomer, Bruno Moreira, Juli G. Pausas (2025). Pre-disturbance plant condition drives intraspecific resprouting variability in Mediterranean shrubs.Journal of Experimental Botany. https://doi.org/10.1093/jxb/eraf246 *
+*Maya A. Zomer, Bruno Moreira, Juli G. Pausas (2025). Pre-disturbance plant condition drives intraspecific resprouting variability in Mediterranean shrubs.Journal of Experimental Botany. https://doi.org/10.1093/jxb/eraf246*
 
 We investigated how long-term environmental conditions (aridity, fire history, soil nitrogen), immediate post-disturbance water availability (rainfall), and potential local adaptation shape resprouting variability in two Mediterranean shrub species. We applied a standardized two-cut disturbance in two experimental contexts: a field experiment across an aridity gradient in eastern Spain (*Anthyllis cytisoides*, *Globularia alypum*), and a common garden experiment using *A. cytisoides* grown from seeds collected from high- and low-aridity regions and exposed to drought and watered treatments. Plant responses were tracked across three stages: resprouting success after the first cut (yes/no), resprouting vigour (dry aboveground biomass of successful resprouts), and resprouting success after the second cut (yes/no).
 
